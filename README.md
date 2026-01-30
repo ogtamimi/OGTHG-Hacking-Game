@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/assets/banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 🛡️ OGTHG - The Next-Gen Web CTF Platform
 
 ![Author](https://img.shields.io/badge/Created_By-OGT_(Omar_Al_Tamimi)-blue?style=for-the-badge)
