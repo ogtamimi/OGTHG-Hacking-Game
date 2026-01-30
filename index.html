@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OGTHG | The Hacking Game by OGT</title>
+  <meta name="description" content="Master Web CTF challenges in a modern, AI-powered educational sandbox. Created by Omar Al Tamimi." />
+  <meta name="author" content="Omar Al Tamimi" />
+  
+  <!-- Social Graph -->
+  <meta property="og:title" content="OGTHG | Hacking Game" />
+  <meta property="og:description" content="Next-gen Web Security educational platform with high-fidelity simulations." />
+  <meta property="og:type" content="website" />
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: dark;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #020617; /* slate-950 */
+      color: #f8fafc; /* slate-50 */
+      overflow-x: hidden;
+    }
+    .mono {
+      font-family: 'JetBrains Mono', monospace;
+    }
+    ::selection {
+      background-color: #7c3aed;
+      color: white;
+    }
+    /* Smooth Scrollbar for clear repo look */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #020617;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #1e293b;
+      border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #334155;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/index.tsx"></script>
+</body>
+</html>
