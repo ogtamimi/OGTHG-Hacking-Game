@@ -73,7 +73,7 @@ For a detailed breakdown of the project structure and directory descriptions, pl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OGTHG-Hacking-Game.git
+   git clone https://github.com/ogtamimi/OGTHG-Hacking-Game.git
    cd OGTHG-Hacking-Game
    ```
 
