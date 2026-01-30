@@ -1,6 +1,5 @@
 # 🛡️ OGTHG - The Next-Gen Web CTF Platform
 
-![Version](https://img.shields.io/badge/version-1.1.0-violet?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Created_By-OGT_(Omar_Al_Tamimi)-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Gemini](https://img.shields.io/badge/AI-Gemini_3_Flash-8E75B2?style=for-the-badge&logo=google-gemini)
